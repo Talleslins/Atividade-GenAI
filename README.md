@@ -28,7 +28,7 @@ Siga o passo a passo abaixo para rodar a aplicação localmente a partir do zero
 Clone este repositório para a sua máquina local:
 ```bash
 git clone https://github.com/Talleslins/Atividade-GenAI.git
-cd Atividade GenAI
+cd <pasta onde você clonou o repositório>
 ```
 **Importante:** Faça o download do arquivo `cinerocket.db` disponibilizado na pasta da atividade e coloque-o na raiz do projeto (mesmo diretório do arquivo `app.py`).
 
